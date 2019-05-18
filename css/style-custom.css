@@ -19,11 +19,11 @@ h3{ font-size: 32px; }
 h4{ font-size: 26px; }
 h5{ font-size: 21px; }
 h6{ font-size: 16px; }
-.top-navigation-wrapper{ background-color: #272727; }
-.top-navigation-wrapper{ color: #cecece; }
-.top-navigation-wrapper a{ color: #f2f2f2; }
-.greennature-header-inner, .greennature-header-wrapper.header-style-5-wrapper .greennature-header-inner{ background-color: rgba(37, 53, 38, 0.85); }@media only screen and (max-width: 767px) { .greennature-header-wrapper.header-style-5-wrapper .greennature-header-inner{ background-color: #253526; } }
-.greennature-main-menu > li > a, .greennature-main-menu > li > a i{ color: #ffffff; } @media only screen and (max-width: 1100px) { body .greennature-donate-button, body .greennature-donate-button:hover, body .greennature-top-woocommerce-button{ color: #ffffff; }} 
+.top-navigation-wrapper{ background-color: #ffffff; }
+.top-navigation-wrapper{ color: #f1f1f1; }
+.top-navigation-wrapper a{ color: #ffffff; }
+.greennature-header-inner, .greennature-header-wrapper.header-style-5-wrapper .greennature-header-inner{ background-color: rgb(255, 255, 255); }@media only screen and (max-width: 767px) { .greennature-header-wrapper.header-style-5-wrapper .greennature-header-inner{ background-color: #313532; } }
+.greennature-main-menu > li > a, .greennature-main-menu > li > a i{ color: #67dd84; } @media only screen and (max-width: 1100px) { body .greennature-donate-button, body .greennature-donate-button:hover, body .greennature-top-woocommerce-button{ color: #ffffff; }} 
 .greennature-main-menu > li:hover > a, .greennature-main-menu > li.current-menu-item > a, .greennature-main-menu > li.current-menu-ancestor > a{ color: #90ba92; opacity: 1; filter: alpha(opacity=100); }.greennature-navigation-gimmick{ background-color: #90ba92; }
 .greennature-button-overlay{ background-color: #ecb338; }
 .greennature-button-overlay{ border-color: #8c6e16; }
@@ -32,14 +32,14 @@ h6{ font-size: 16px; }
 .greennature-woo-button-overlay{ border-color: #8e7126; }
 .greennature-top-woocommerce-button{ color: #60511e; }
 .greennature-main-menu > .greennature-normal-menu .sub-menu, .greennature-main-menu > .greennature-mega-menu .sf-mega{ border-top-color: #1c1c1c; }
-.greennature-main-menu > .greennature-normal-menu li , .greennature-main-menu > .greennature-mega-menu .sf-mega{ background-color: #25221a; }
+.greennature-main-menu > .greennature-normal-menu li , .greennature-main-menu > .greennature-mega-menu .sf-mega{ background-color: #408a53; }
 .greennature-main-menu > li > .sub-menu a, .greennature-main-menu > li > .sf-mega a{ color: #f4f4f4; }
 .greennature-main-menu > li > .sub-menu a:hover, .greennature-main-menu > li > .sub-menu .current-menu-item > a, .greennature-main-menu > li > .sub-menu .current-menu-ancestor > a, .greennature-main-menu > li > .sf-mega a:hover, .greennature-main-menu > li > .sf-mega .current-menu-item > a, .greennature-main-menu > li > .sf-mega .current-menu-ancestor > a{ color: #eddbc0; } .greennature-main-menu .greennature-normal-menu li > a.sf-with-ul:after { border-left-color: #eddbc0; } 
 .greennature-main-menu .sf-mega-section-inner > ul > li > a:hover, .greennature-main-menu .sf-mega-section-inner > ul > li.current-menu-item > a { background-color: #332c20; } 
 .greennature-main-menu > li > .sub-menu *, .greennature-main-menu > li > .sf-mega *{ border-color: #493e2b; }
 .greennature-main-menu > li > .sf-mega .sf-mega-section-inner > a { color: #ffffff; }
 .greennature-main-menu > li > .sf-mega .sf-mega-section-inner > a:hover, .greennature-main-menu > li > .sf-mega .sf-mega-section-inner.current-menu-item > a, .greennature-main-menu > li > .sf-mega .sf-mega-section-inner.current-menu-ancestor > a { color: #ffffff; }
-#greennature-responsive-navigation.dl-menuwrapper button { background-color: #0c0c0c; }
+#greennature-responsive-navigation.dl-menuwrapper button { background-color: #ffffff; }
 #greennature-responsive-navigation.dl-menuwrapper button:hover, #greennature-responsive-navigation.dl-menuwrapper button.dl-active, #greennature-responsive-navigation.dl-menuwrapper ul{ background-color: #161616; }
 body{ background-color: #dddddd; }
 .body-wrapper, .greennature-single-lightbox-container{ background-color: #ffffff; }
